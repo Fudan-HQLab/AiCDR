@@ -5,9 +5,6 @@
 ![alt text](./AiCDR.jpg)
 AiCDR is generative adversarial network with three discriminators for nanobody CDR3 sequence generation.
 
-Read AiCDR paper:
-
-https://www.biorxiv.org/content/10.1101/2024.10.29.620982v1
 
 AiCDR employs part of the benchmarking platform Texygen, see more:
 
@@ -59,11 +56,12 @@ Retrain the model
   * `<positive dataset location>` - positive data to train AiCDR
 -----------------------------------------------------------------------------------------------------
 ```
-@article{huoliyun2024AiCDR,
-  title={Deep generative design of neutralizing nanobodies against SARS-CoV-2 variants},
-  author={Liyun Huo, Tian Tian, Yanqin Xu, Qin Qin, Xinyi Jiang, Qiang Huang},
-  doi={https://doi.org/10.1101/2024.10.29.620982},
-  year={2024},
-}
+@article{Unpublished,
+  title={Computational nanobody design through deep generative modeling and epitope landscape profiling,
+  author={Liyun Huo, Tian Tian, Yanqin Xu, Xinyi Jiang, Qiang Huang},
+  journal={Unpublished},
+  year={2025},
+  publisher={Unpublished}
+  }
 ```
 -----------------------------------------------------------------------------------------------------
