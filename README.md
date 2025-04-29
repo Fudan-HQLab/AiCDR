@@ -25,7 +25,7 @@ Code organization:
 * `Guider2/` - Trained model for peptide sequence discrimination (Guider2).
 * `Guider/` - Scripts for training and evaluating Guider1 and Guider2.
 * `Nanobody_library/` - A library of 5,194 nanobody structures with diverse CDR3 sequences.
-* `Epitope_profiling/` - Contains docking results and epitope profiling data for the six target proteins..
+* `Epitope_profiling/` - Contains docking results for the six target proteins..
 -----------------------------------------------------------------------------------------------------
 # Usage
 
