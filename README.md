@@ -2,7 +2,6 @@
 
 -----------------------------------------------------------------------------------------------------
 
-![alt text](./AiCDR.jpg)
 AiCDR is generative adversarial network with three discriminators for nanobody CDR3 sequence generation.
 
 
@@ -58,7 +57,7 @@ Retrain the model
 ```
 @article{Unpublished,
   title={Computational nanobody design through deep generative modeling and epitope landscape profiling,
-  author={Liyun Huo, Tian Tian, Yanqin Xu, Xinyi Jiang, Qiang Huang},
+  author={Liyun Huo, Tian Tian, Yanqin Xu, Qin Qin, Xinyi Jiang, Qiang Huang},
   journal={Unpublished},
   year={2025},
   publisher={Unpublished}
